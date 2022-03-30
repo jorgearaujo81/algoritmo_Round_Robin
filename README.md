@@ -1,6 +1,6 @@
 # Process Scheduler Calculator: Round Robin Algorithm
 
-This repository simulates Round Robin for process scheduling and calculates the average time processes are active, average response time, and average response time.
+This repository simulates Round Robin Algorithm for process scheduling and calculates the average time processes are active, average response time, and average response time.
 
 
 ## Clone Project
