@@ -1,17 +1,12 @@
 # Process Scheduler Calculator: Round Robin Algorithm
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-
 This repository simulates Round Robin for process scheduling and calculates the average time processes are active, average response time, and average response time.
 
 
 ## Clone Project
 
 ```bash
-$ git clone https://github.com/MichaelBittencourt/ProcessSchedulerCalculator.git
+$ git clone https://git@github.com:jorgearaujo81/algoritmo_Round_Robin.git
 $ cd RedirectPipeExamples
 ```
 
