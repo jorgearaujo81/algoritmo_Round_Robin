@@ -7,7 +7,7 @@ This repository simulates Round Robin for process scheduling and calculates the 
 
 ```bash
 $ git clone https://git@github.com:jorgearaujo81/algoritmo_Round_Robin.git
-$ cd RedirectPipeExamples
+$ cd algoritmo_Round_Robin
 ```
 
 ## Running
